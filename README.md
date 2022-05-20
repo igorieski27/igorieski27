@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igorieski27
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning Vue.js
 - 📫 How to reach me igorieski27@gmail.com
 
 <!---
